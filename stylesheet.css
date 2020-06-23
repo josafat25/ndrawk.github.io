@@ -54,17 +54,10 @@ a {
   margin: 10px 0;
 }
 
-.signup {
-  background-color: #239b76;
-}
 
-.facebook {
+.discord {
   background-color: #3b5998;
   margin-right: 10px;
-}
-
-.twitter {
-  background-color: #55acee;
 }
 
 .btn {
